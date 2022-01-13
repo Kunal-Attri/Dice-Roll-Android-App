@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DiceRoll" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#555555</item>
+        <item name="colorPrimaryVariant">#555555</item>
+        <item name="colorOnPrimary">#cccccc</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#555555</item>
+        <item name="colorSecondaryVariant">#555555</item>
+        <item name="colorOnSecondary">#888888</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
